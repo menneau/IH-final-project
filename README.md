@@ -17,13 +17,13 @@ The derived forecasts will be input into a neural network to categorize the proj
 ## Structure of the project
 
 ### Notebooks
-1-Data acquisition
+1 - Data acquisition
 
-2-Data cleaning and preparation
+2 - Data cleaning and preparation
 
-3- Machine Learning: Time Series and Regression
+3 - Machine Learning: Time Series and Regression
 
-4- Machine Learning: Deep Learning Classification
+4 - Machine Learning: Deep Learning Classification
 
 ### CSV Files
 
